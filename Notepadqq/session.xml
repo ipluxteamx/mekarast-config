@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Notepadqq>
+    <View>
+        <Tab filePath="/home/iplux/.icons/simple-breeze/index.theme" cacheFilePath="" scrollX="0" scrollY="0" language="properties" lastModified="1660933277000"/>
+        <Tab filePath="/home/iplux/archiso/releng/packages.x86_64" cacheFilePath="" scrollX="0" scrollY="1949" language="plaintext" lastModified="1661089947727"/>
+        <Tab filePath="/home/iplux/archiso/releng/pacman.conf" cacheFilePath="" scrollX="0" scrollY="120" language="plaintext" lastModified="1661081589489"/>
+        <Tab filePath="/home/iplux/archiso/releng/bootstrap_packages.x86_64" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661081589483"/>
+        <Tab filePath="/home/iplux/archiso/releng/syslinux/archiso_head.cfg" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661084763000"/>
+        <Tab filePath="/home/iplux/archiso/releng/syslinux/archiso_sys-linux.cfg" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661084852890"/>
+        <Tab filePath="/home/iplux/archiso/releng/syslinux/archiso_pxe.cfg" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661081589489"/>
+        <Tab filePath="/home/iplux/archiso/releng/syslinux/syslinux.cfg" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661081589493"/>
+        <Tab filePath="/home/iplux/archiso/releng/efiboot/loader/entries/01-archiso-x86_64-linux.conf" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661084856827"/>
+        <Tab filePath="/home/iplux/archiso/releng/efiboot/loader/entries/02-archiso-x86_64-speech-linux.conf" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661084871820"/>
+        <Tab filePath="/home/iplux/archiso/releng/efiboot/loader/entries/03-archiso-x86_64-ram-linux.conf" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661084875923"/>
+        <Tab filePath="/home/iplux/archiso/releng/efiboot/loader/entries/04-archiso-x86_64-ram-speech-linux.conf" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661084879617"/>
+        <Tab filePath="/home/iplux/archiso/releng/airootfs/root/.automated_script.sh" cacheFilePath="" scrollX="0" scrollY="0" language="bash" lastModified="1661087885860"/>
+        <Tab filePath="/home/iplux/archiso/releng/profiledef.sh" cacheFilePath="" scrollX="0" scrollY="0" language="bash" lastModified="1661081589489"/>
+        <Tab filePath="/home/iplux/archiso/releng/efiboot/loader/loader.conf" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661081589486"/>
+        <Tab filePath="/home/iplux/archiso/releng/aur_git.links" cacheFilePath="" scrollX="0" scrollY="0" language="plaintext" lastModified="1661088218225"/>
+        <Tab filePath="/home/iplux/archiso/releng/airootfs/usr/share/themes/Nordic/index.theme" cacheFilePath="" scrollX="0" scrollY="0" language="properties" lastModified="1660769048000"/>
+        <Tab filePath="/home/iplux/archiso/releng/airootfs/root/customize_airootfs.sh" cacheFilePath="" scrollX="0" scrollY="329" language="bash" lastModified="1661090320620" active="1"/>
+    </View>
+</Notepadqq>
